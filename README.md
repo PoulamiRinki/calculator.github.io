@@ -7,7 +7,7 @@
 <style>
 h1 {
 	text-align: center;
-	padding: 23px;
+	padding: 56px;
 	background-color: skyblue;
 	color: white;
 	}
